@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppTest</string>
+    <string name="title_item_detail">Item Detail</string>
+    
+    <!-- Channel Group -->
+    <string name="channel_group_create">Create</string>
+    <string name="channel_group_remove">Remove</string>
+    <string name="channel_group_rename">Rename</string>
+    <string name="channel_group_modify">Modify</string>
+    <string name="channel_group_all_apply">All Apply</string>
+
+</resources>
